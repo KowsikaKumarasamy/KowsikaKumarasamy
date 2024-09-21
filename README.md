@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Kowsika Kumarasamy
----
+
 - 👋 Hi, I’m @KowsikaKumarasamy
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking for the opportunity to expertise my knowledge
 - 📫 How to reach me :
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/hareesh-r/](https://www.linkedin.com/in/kowsika-kumarasamy-872a561ba))
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]((https://www.linkedin.com/in/kowsika-kumarasamy-872a561ba))
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### I code in
